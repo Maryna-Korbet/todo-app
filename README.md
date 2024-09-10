@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./todo-app/public/todo.svg" alt="TODO List App" width="60"/>
+  <img src="./public/todo.svg" alt="TODO List App" width="60"/>
   
 &#xa0;
 </div>
@@ -8,9 +8,13 @@
 
 ## Description:
 
-[TODO List App](https://github.com/Maryna-Korbet/todo-app) is a simple, fully functional TODO list application built using the latest version of **React.js** with **TypeScript**. The app allows users to manage tasks efficiently with a responsive and modern UI. It leverages an API to handle CRUD operations for tasks.
+[TODO List App](https://github.com/Maryna-Korbet/todo-app) is a simple, fully
+functional TODO list application built using the latest version of **React.js**
+with **TypeScript**. The app allows users to manage tasks efficiently with a
+responsive and modern UI. It leverages an API to handle CRUD operations for
+tasks.
 
-![Project Screenshot](./todo-app/public/screenshot.jpg)
+![Project Screenshot](./public/screenshot.jpg)
 
 ### Features:
 
@@ -37,7 +41,8 @@ This app interacts with a custom task processing API built with mockapi-io.
 
 ### Project Structure:
 
-- **TanStack Query** handles API requests, ensuring efficient data fetching and caching.
+- **TanStack Query** handles API requests, ensuring efficient data fetching and
+  caching.
 - **Material UI** provides a clean, responsive UI with pre-built components.
 - **styled-components** are used for custom styling of the app.
 - **Formik** used for form handling, while **Yup** handles form validation.
